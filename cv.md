@@ -1,7 +1,7 @@
 # **Valentina Shyshko**
 
 ## Contacts for communication:
-***Discord** valentina240397;*
+***Discord** @valentina240397;*
 
 ***Email** valentina240397@gmail.com.*
 
