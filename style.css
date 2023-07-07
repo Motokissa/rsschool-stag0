@@ -49,6 +49,13 @@
     width: 50%;
     margin: 0 auto;
   }
+   .h2 {
+    font-size: 36px;
+    line-height: 24px;
+    font-weight: 900;
+    color: hsl(154, 27%, 73%);
+    margin-bottom: 20px;
+  }
 
   .container {
     max-width: 1440px;
@@ -79,7 +86,7 @@
   .rss {
     width: 121px;
     height: 45px;
-    background-image: url("./assets/svg/rss.svg");
+    background-image: url("Monogram-CV-Logo-by-Greenlines-Studios.ico");
     background-size: contain;
     background-repeat: no-repeat;
   }
