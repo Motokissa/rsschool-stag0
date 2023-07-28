@@ -1,2 +1,1 @@
-https://Motokissa.github.io/rsschool-cv/cv
-https://Motokissa.github.io/rsschool-cv/
+https://rolling-scopes-school.github.io/Motokissa-JSFEPRESCHOOL2023Q2/library/
