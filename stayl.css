@@ -1,0 +1,85 @@
+
+@font-face {
+    font-family: Forum;
+     src: url("assets\fonts\Forum.zip");
+   }
+@font-face {
+ font-family: Inter;
+  src: url("assets\fonts\Inter.zip");
+
+ .header {
+  width: 1440px;
+  height: 90px;
+  background: rgba(12, 12, 14, 1);
+  margin: 0 auto;
+}
+.nav_list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 40px;
+  width: 584px;
+  justify-content: space-between;
+  text-decoration: none;
+  font-size: 20px;
+  color:#fff;
+}
+.fon_photo {
+  display: flex;
+  padding-top: 220px;
+  height: 600px;
+ }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+h1 {
+  color: #fff;
+  font-family: Forum;
+  font-size: 1.875rem;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.0375rem;
+  line-height: 3.125rem;
+}
+
+.but_on {
+  width: 28px;
+  height: 28px;
+  border: none;
+  background-color: var(--title-text-color);
+  background-image: url(./assets/svg/icon_profile.svg);
+  background-size: cover;
+}
+.about_list {
+  display: flex;
+  width: 100%;
+  height: 560px;
+  justify-content: space-between;
+  padding: 0px 20px;
+}
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+
+.slider-but-list {
+  display: flex;
+  margin: 35px 0px;
+}
+.slider-but {
+  display: block;
+  width: 16px;
+  height: 16px;
+  border: none;
+  border-radius: 8px;
+  background: var(--title-text-color);
+}
